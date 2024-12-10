@@ -12,7 +12,7 @@
 
 
 #### Диаграмма классов
-![alt text](https://github.com/Swithez/PTLab1/blob/main/ClassDiagram.png?raw=true)
+![alt text]([https://github.com/Swithez/PTLab1/blob/main/ClassDiagram.png?raw=true](https://github.com/Swithez/PTLab1/blob/main/ClassDiagramLab1.png?raw=true))
 
 #### Используемые ресурсы
 - **Языки:** Python;
@@ -140,3 +140,6 @@ GitHub Actions — это встроенный инструмент автома
         - Запуск тестов.
         - Сборка артефактов.
         - Развертывание приложений.
+## **Вывод**
+
+В ходе лабораторной работы освоил pytest и разработал функцию из индивидуального задания.
