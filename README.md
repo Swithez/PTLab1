@@ -12,7 +12,7 @@
 
 
 #### Диаграмма классов
-![alt text]((https://github.com/Swithez/PTLab1/blob/main/ClassDiagramLab1.png?raw=true))
+![alt text](https://github.com/Swithez/PTLab1/blob/main/ClassDiagramLab1.png)
 
 #### Используемые ресурсы
 - **Языки:** Python;
